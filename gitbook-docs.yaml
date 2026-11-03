@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: TermMax Docs
+  structure:
+    - type: space
+      key: space-1
+      title: TermMax Docs
+      path: termmax
+      default: true
+      content:
+        directory: ./termmax
+    - type: space
+      key: space-2
+      title: TermMax 文档
+      path: termmax-doc-cn
+      content:
+        directory: ./termmax-doc-cn
