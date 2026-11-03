@@ -1,0 +1,3 @@
+# USDT/PT-sUSDX-1SEP2025@02SEP2025
+
+<table><thead><tr><th width="299.77410888671875">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xa19d845f4f41c0756752f5697c90c392177cd0b2</code></td></tr><tr><td>Collateral (PT-sUSDX-1SEP2025)</td><td><code>0xfa56005cdf111725a8e5395fc90cd33135bccae8</code></td></tr><tr><td>Underlying (USDT)</td><td><code>0x55d398326f99059ff775485246999027b3197955</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x83918129f86c007397bdfade788936a9edd1f829</code></td></tr><tr><td>X Token (XT)</td><td><code>0xf9ab0ab037449f10d38121780eef48ab3b801525</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0xf7baf3d362c1e8ef0c6c78c19fed925c06e73636</code></td></tr></tbody></table>

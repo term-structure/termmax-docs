@@ -1,0 +1,3 @@
+# USDC/upUSDC@26SEP2025
+
+<table><thead><tr><th width="300.14703369140625">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0x99bff0ca2bdeb3b178aa4728a55de67de87b47c7</code></td></tr><tr><td>Collateral (upUSDC)</td><td><code>0x80e1048ede66ec4c364b4f22c8768fc657ff6a42</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x4028e383c1acd8115b64d5238676e1fce7ac3adb</code></td></tr><tr><td>X Token (XT)</td><td><code>0x59fd7885914eb649dfacf22567abceb084d5e1f3</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x4a88703b9fd510a74f841c492428353af414f08c</code></td></tr></tbody></table>

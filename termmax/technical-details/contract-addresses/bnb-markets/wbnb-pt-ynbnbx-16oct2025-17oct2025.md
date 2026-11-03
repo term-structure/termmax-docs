@@ -1,0 +1,3 @@
+# WBNB/PT-ynBNBx-16OCT2025@17OCT2025
+
+<table><thead><tr><th width="299.8359375">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0x8e5ffef66e073f1d37df05c141f7bac1264cf27e</code></td></tr><tr><td>Collateral (PT-ynBNBx-16OCT2025)</td><td><code>0x50956c8e46a4f7dfc7475e3957c162d29b39f75f</code></td></tr><tr><td>Underlying (WBNB)</td><td><code>0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x488e5de5d0ca4556d2e4601d4cc7566d6fce45ac</code></td></tr><tr><td>X Token (XT)</td><td><code>0x84b80aea16df20f2f01de21458b4dc12c171afaf</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x1cfc4a898050f4b634449f3df62f787fa16469bf</code></td></tr></tbody></table>

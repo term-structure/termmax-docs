@@ -1,0 +1,3 @@
+# USDC/WBTC@26SEP2025
+
+<table><thead><tr><th width="300.2216796875">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xb082e52f6587348e868e05236526febde82959a0</code></td></tr><tr><td>Collateral (WBTC)</td><td><code>0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xaf88d065e77c8cc2239327c5edb3a432268e5831</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x9f72efe7166380cb6c983f21eb777f04d2926638</code></td></tr><tr><td>X Token (XT)</td><td><code>0x6359a9ebddf15a4b08d3359f3e7e58bb32f8e887</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x89ebdb5402e8cec003b09fb3acc60de3ac76d6e4</code></td></tr></tbody></table>

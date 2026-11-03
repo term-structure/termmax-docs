@@ -1,0 +1,3 @@
+# USDC/tUSDe@26SEP2025
+
+<table><thead><tr><th width="300.06890869140625">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0x8485f6be0d8efa544e92c33816d23f69625184cc</code></td></tr><tr><td>Collateral (tUSDe)</td><td><code>0xa01227a26a7710bc75071286539e47adb6dea417</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x2a44bd9765b8110b20f9547a67346871f971159e</code></td></tr><tr><td>X Token (XT)</td><td><code>0x4c501990b3e39c755648d6b3ee8cda7c3db72ad4</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x805fefb7070f48aecbcbdd4b1930e5942037fe18</code></td></tr></tbody></table>

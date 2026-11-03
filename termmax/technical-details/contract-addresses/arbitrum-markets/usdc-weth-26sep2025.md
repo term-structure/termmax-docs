@@ -1,0 +1,3 @@
+# USDC/WETH@26SEP2025
+
+<table><thead><tr><th width="299.5504150390625">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xb0e42a70736cc9b7496a79ab7905bf2656267088</code></td></tr><tr><td>Collateral (WETH)</td><td><code>0x82af49447d8a07e3bd95bd0d56f35241523fbab1</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xaf88d065e77c8cc2239327c5edb3a432268e5831</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x156d37f609d82d3ef5e5cd66d204e1d4a369b5ea</code></td></tr><tr><td>X Token (XT)</td><td><code>0xc5a8ac63d35d8dca42f6e7a58aba086c6a4ef88f</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0xc8a5721f1a13aef00f46f17446adbf088820bfb6</code></td></tr></tbody></table>

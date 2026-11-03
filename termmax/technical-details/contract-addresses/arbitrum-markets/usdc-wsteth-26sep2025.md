@@ -1,0 +1,3 @@
+# USDC/wstETH@26SEP2025
+
+<table><thead><tr><th width="299.5823974609375">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xae93a53d2c5e0aea00fe15a64208770e70c4a70d</code></td></tr><tr><td>Collateral (wstETH)</td><td><code>0x5979d7b546e38e414f7e9822514be443a4800529</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xaf88d065e77c8cc2239327c5edb3a432268e5831</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x0d8747ffa34e8536b33c3e6400eef3837f15a6b7</code></td></tr><tr><td>X Token (XT)</td><td><code>0x6ea46362ee1d067e9d6104b3b8d14e7db1dc9b1b</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x53bcf42a906691befad6b7c3d49f2d3c018d0415</code></td></tr></tbody></table>

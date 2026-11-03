@@ -1,0 +1,3 @@
+# WETH/PT-tETH-25SEP2025@26SEP2025
+
+<table><thead><tr><th width="299.5574951171875">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0x411be598edb6a6f205d27cd18f2ae8742ba59dad</code></td></tr><tr><td>Collateral (PT-tETH-25SEP2025)</td><td><code>0xfe72382695dc280e7392a0be795128a126e9b7ae</code></td></tr><tr><td>Underlying (WETH)</td><td><code>0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x57e77a6b4ee5312da19b35d6f61274be247961b5</code></td></tr><tr><td>X Token (XT)</td><td><code>0x831fc254889e1238d0451af104bfd4d019e386c0</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0xadb1578c88f5af50ad6d04c6e56418d6ae409c6e</code></td></tr></tbody></table>

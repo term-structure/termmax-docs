@@ -1,0 +1,3 @@
+# USDC/pUSDe@17OCT2025
+
+<table><thead><tr><th width="299.96234130859375">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xf2e6884a0520373bd92dfc49ce7d7ee69e6022bd</code></td></tr><tr><td>Collateral (pUSDe)</td><td><code>0xa62b204099277762d1669d283732dcc1b3aa96ce</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0xc412cf470e2a6ea230c497e18eeb0ac076d1525a</code></td></tr><tr><td>X Token (XT)</td><td><code>0xdcda07e193a943dcef7b939f166e3a1a4aa6d6ac</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x52db35c0a4cc409da1e409f309f3771441c02ab1</code></td></tr></tbody></table>

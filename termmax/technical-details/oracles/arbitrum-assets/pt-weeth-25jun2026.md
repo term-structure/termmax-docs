@@ -1,0 +1,3 @@
+# PT-weETH-25JUN2026
+
+<table><thead><tr><th width="251.24566650390625">Item</th><th>Value</th></tr></thead><tbody><tr><td>Token Address</td><td>0xaB7F3837E6e721abBc826927B655180Af6A04388</td></tr><tr><td>Primary Price Feed</td><td>0x6209F36e72846801c0580a851220f062C9472133</td></tr><tr><td>Primary Price Feed Provider</td><td>Pendle ptToSyRate + chainlink weETH/ETH + chainlink ETH/USD</td></tr><tr><td>Backup Price Feed</td><td>0xe7c5C4ebc151e4B0DeeFF841C5f7Ec68f747368F</td></tr><tr><td>Backup Price Feed Provider</td><td>Pendle ptToSyRate + redstone weETH/ETH + eOracle ETH/USD</td></tr><tr><td>Heartbeat</td><td>86400</td></tr></tbody></table>

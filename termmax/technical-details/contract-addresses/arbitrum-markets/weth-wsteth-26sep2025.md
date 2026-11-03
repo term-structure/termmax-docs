@@ -1,0 +1,3 @@
+# WETH/wstETH@26SEP2025
+
+<table><thead><tr><th width="300.1043701171875">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xdc93f55563dd3c98d1e050886c1044ce98b8129a</code></td></tr><tr><td>Collateral (wstETH)</td><td><code>0x5979d7b546e38e414f7e9822514be443a4800529</code></td></tr><tr><td>Underlying (WETH)</td><td><code>0x82af49447d8a07e3bd95bd0d56f35241523fbab1</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0x1754c5d4d13acaf68f1d41e3552cfc60873e18c2</code></td></tr><tr><td>X Token (XT)</td><td><code>0xe6361b134f917d1e55e7dfbaf1f973cbc515842c</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0xb47c9a66bcb500dec86cd5be176354cf943355b4</code></td></tr></tbody></table>

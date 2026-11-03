@@ -1,0 +1,3 @@
+# USDC/ARB@26SEP2025
+
+<table><thead><tr><th width="300.4134521484375">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Market</td><td><code>0xcc0141c3a5b0acf4c9992eb4179e08454aa31ef4</code></td></tr><tr><td>Collateral (ARB)</td><td><code>0x912ce59144191c1204e64559fe8253a0e49e6548</code></td></tr><tr><td>Underlying (USDC)</td><td><code>0xaf88d065e77c8cc2239327c5edb3a432268e5831</code></td></tr><tr><td>Fixed-Rate Token (FT)</td><td><code>0xed9abdb2f52230466812f566576142ef9492be47</code></td></tr><tr><td>X Token (XT)</td><td><code>0xe0a129fa1e40aac99ebd23452d65aba170aae88b</code></td></tr><tr><td>Gearing Token (GT)</td><td><code>0x1f3d283cb3506e719c6ba2aabd14413a2e199676</code></td></tr></tbody></table>
