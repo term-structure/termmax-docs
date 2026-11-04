@@ -20,6 +20,8 @@ export default defineConfig({
   rewrites: manifest.rewrites,
   title: 'TermMax Docs',
   description: 'TermMax documentation',
+  // head links are not base-prefixed by VitePress
+  head: [['link', { rel: 'icon', type: 'image/png', href: `${base}termmax-favicon.png` }]],
   lastUpdated: false,
   sitemap: { hostname: siteUrl },
   markdown: { math: true },
