@@ -374,6 +374,10 @@ for (const space of SPACES) {
   manifest.sidebars[space.prefix || 'root'] = toSidebar(groups, rewrittenBySource)
 }
 
+// Site-level static files (not from GitBook) go into the public dir as-is.
+fs.mkdirSync(path.join(OUT, 'public'), { recursive: true })
+fs.copyFileSync(path.join(SITE, 'termmax-favicon.png'), path.join(OUT, 'public', 'termmax-favicon.png'))
+
 fs.writeFileSync(path.join(CACHE, 'manifest.json'), JSON.stringify(manifest, null, 2))
 fs.writeFileSync(path.join(CACHE, 'conversion-report.json'), JSON.stringify(report, null, 2))
 
