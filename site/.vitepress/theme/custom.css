@@ -1,0 +1,70 @@
+/* GitBook theme tokens used in <mark style="color:$token"> */
+:root {
+  --gb-info: var(--vp-c-indigo-1);
+  --gb-success: var(--vp-c-green-1);
+  --gb-warning: var(--vp-c-yellow-1);
+  --gb-danger: var(--vp-c-red-1);
+}
+
+/* GitBook <mark style="color:…"> colours text without a highlight */
+.vp-doc mark.gb-mark {
+  background: transparent;
+}
+
+/* GitBook frontmatter description, shown under the H1 */
+.vp-doc .gb-description {
+  margin-top: -8px;
+  font-size: 1.1em;
+  color: var(--vp-c-text-2);
+}
+
+/* <table data-header-hidden> */
+.vp-doc table[data-header-hidden] thead {
+  display: none;
+}
+
+/* GitBook figures */
+.vp-doc figure {
+  margin: 16px 0;
+  text-align: center;
+}
+.vp-doc figure img {
+  display: inline-block;
+}
+.vp-doc figcaption {
+  font-size: 0.9em;
+  color: var(--vp-c-text-2);
+}
+.vp-doc figcaption p {
+  margin: 4px 0 0;
+}
+
+/* Address cells: GitBook renders <pre><code> inside tables */
+.vp-doc td pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-all;
+  background: var(--vp-code-bg);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+/* {% file %} attachments */
+.vp-doc .gb-file {
+  margin: 8px 0 16px;
+  padding: 8px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+.vp-doc .gb-file p {
+  margin: 0;
+}
+
+/* Fallback for GitBook syntax the converter did not understand */
+.vp-doc .gb-unsupported {
+  display: block;
+  padding: 8px;
+  border: 1px dashed var(--vp-c-danger-1);
+  white-space: pre-wrap;
+}
