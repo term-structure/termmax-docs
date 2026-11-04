@@ -33,11 +33,13 @@ export default defineConfig({
   // The outer HTML shell resolves the locale from the route, not relativePath.
   transformHtml(html, id, { pageData }) {
     // GitBook redirects /page/ to /page; GitHub Pages 404s it. The 404 page
-    // retries once without the trailing slash.
+    // retries once without the trailing slash. Leading slashes are collapsed so
+    // `//evil.com/` cannot become a protocol-relative (off-site) redirect.
     if (id.endsWith('404.html')) {
       const redirect = `<script>(function(){var p=location.pathname;` +
-        `if(p.length>1&&p.slice(-1)==='/'&&p!==${JSON.stringify(base)})` +
-        `location.replace(p.replace(/\\/+$/,'')+location.search+location.hash)})()</script>`
+        `if(p.length>1&&p.slice(-1)==='/'&&p!==${JSON.stringify(base)}){` +
+        `var t=p.replace(/\\/+$/,'').replace(/^[\\/\\\\]+/,'/');` +
+        `if(t.length>1)location.replace(t+location.search+location.hash)}})()</script>`
       return html.replace('<head>', '<head>' + redirect)
     }
     if (pageData.relativePath !== `${CN}/index.md`) return
