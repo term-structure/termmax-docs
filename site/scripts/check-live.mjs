@@ -3,7 +3,7 @@
 //
 // Usage:
 //   node scripts/check-live.mjs                      # after the custom-domain switch
-//   node scripts/check-live.mjs --target https://decentral-portal.github.io/termmax-docs
+//   node scripts/check-live.mjs --target https://term-structure.github.io/termmax-docs
 //   node scripts/check-live.mjs --urls scripts/gitbook-urls.txt
 //
 // Once docs.ts.finance points at the new site its sitemap.xml is VitePress's,
